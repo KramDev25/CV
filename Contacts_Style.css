@@ -1,0 +1,77 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+
+.container{
+    background-color: #222831;
+    padding: 20px 20px;
+}
+
+.facebook_contact, .twitter_contact, .instagram_contact{
+    margin: 20px 20px 20px 20px;
+    font-size: 25px;
+    font-weight: lighter;
+    color: white;
+    text-align: center;
+    border: 1px solid rgb(75, 73, 73);
+}
+
+
+p{
+    margin: 20px 0px 10px 20px;
+    font-size: 25px;
+    font-weight: lighter;
+    color: white;
+}
+
+h1{
+    color: white;
+}
+
+img{
+    width:90%;
+    margin: 20px auto;
+ 
+}
+
+form,label,input,legend,textarea{
+    margin: 10px 0px 10px 10px;
+}
+
+textarea{
+    padding: 10px;
+}
+
+ a{
+    color: rgb(0, 132, 255);
+    text-decoration: none;
+ }
+
+ hr{
+    border-style: inset;
+    border: none;
+    background-image: linear-gradient(to right,rgb(255, 255, 255,0),white,rgba(255, 255, 255, 0));
+    width: 80%;
+    height: 2px;
+    margin: 50px auto;
+ }
+
+ footer{
+    background-color: white;
+ }
+
+ footer p{
+    color: black;
+ }
+
+ .message{
+    text-align: center;
+ }
+
+ .header{
+    padding: 20px 20px;
+ }
+

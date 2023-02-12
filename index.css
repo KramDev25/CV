@@ -1,0 +1,120 @@
+*{
+    margin: 0px;
+    padding:0px;
+}
+
+.kram_img{
+    display: inline-block;
+    width:220px;
+    height:250px;
+    border: none;
+    border-top-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+    border-top-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+
+ img, h1, h2, h3, p{
+    margin: 20px 20px 20px 30px ;
+    
+ }
+
+ ul,li,ol{
+    margin:10px 0px 15px 30px;
+   
+ }
+
+ header{
+    display: flex;
+    background-color: #222831;
+    color: white;
+ }
+
+ .about_me{
+    width: 65%;
+    font-size: 20px;
+    margin-top: 50px;
+ }
+
+ .name{
+   margin-top: 60px;
+   font-size: 45px;
+   font-weight:lighter;
+ }
+
+ .info{
+   font-size:17px;   
+ }
+
+ .info a{
+   color:rgb(0, 132, 255);
+ }
+
+ .kram_img{
+   width: 400px;
+   height: 450px;
+ }
+
+ .main{
+    padding:20px 10px;
+
+ }
+
+ table{
+   margin: 10px 0px 15px 35px;
+ }
+
+ td{
+   padding:5px;
+ 
+ }
+
+ footer {
+   background-color:#222831;
+   font-size: 20px;
+   padding: 10px 25px;
+ } 
+ .contact_btn{
+   padding:15px;
+   font-size:18px;
+   background-color:rgb(0, 132, 255);
+   color: white;
+   border-radius: 5px;
+   border: 1px solid rgb(255, 255, 255);
+   
+ }
+
+ hr{
+   border-style: inset;
+   border: none;
+   background-image: linear-gradient(to right,rgb(255, 255, 255),black,white);
+   width: 80%;
+   height: 2px;
+   margin: 4px auto;
+ }
+
+ 
+
+ .hobbies{
+   border: none;
+   border-bottom: 2px solid rgb(0, 132, 255);
+   width:10%;
+   padding:0px 0px 8px 0px;
+ }
+
+ .ffoods{
+      border-bottom: 2px solid rgb(0, 132, 255);
+      width:10%;
+      padding:0px 0px 8px 0px;
+ }
+
+ .skills{
+   border: none;
+   border-bottom: 2px solid rgb(0, 132, 255);
+   width:10%;
+   padding:0px 0px 8px 0px;
+ }
+
+ td li{
+   margin: 0px 5px 8px 0px;
+ }
